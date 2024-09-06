@@ -72,3 +72,7 @@ python test_pa3.py
 
 - Does not support all advanced regex features like backreferences
 - Performance may degrade for very complex expressions
+
+## Acknowledgments
+
+Professor John Glick wrote all test scripts.
